@@ -49,21 +49,10 @@ Safari trip booking platform.
 
 ---
 
-## 🌟 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amiri&show_icons=true&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Amiri&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact
 
 - 📧 mohamedamiri281@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/mohamed-amiri-317a20245)
-- 🌐 [Portfolio](](https://www.med-amiri.me/)
+- 🌐 [Portfolio](https://www.med-amiri.me/)
 
 🟢 **Open to junior full-stack roles**
